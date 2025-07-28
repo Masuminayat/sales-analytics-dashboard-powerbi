@@ -38,11 +38,3 @@ This project demonstrates:
 
 ---
 
-## 🖼️ Screenshots
-
-> *(Add your dashboard screenshots in a `/resources` folder and reference them here)*
-
-![Dashboard Overview](resources/Retail Insights.png)
-
----
-

@@ -42,10 +42,7 @@ This project demonstrates:
 
 > *(Add your dashboard screenshots in a `/resources` folder and reference them here)*
 
-![Dashboard Overview](resources/dashboard_overview.png)
-![Profit Trends](resources/profit_trends.png)
+![Dashboard Overview](resources/Retail Insights.png)
 
 ---
-
-## 🗂️ File Structure
 
